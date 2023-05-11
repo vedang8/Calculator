@@ -97,9 +97,7 @@ button:hover{
     transform: scale(1.1);
 }
 
-button#equal{
-    height: 130px;
-}
+
 
 /*  light theme   */
 
@@ -129,7 +127,6 @@ button#equal{
 .calculator button.btn-equal{
     background-color: #adf9e7;
     color: #000;
-    height: 130px;
 }
 
 /* dark theme */
@@ -160,3 +157,4 @@ button#equal{
     background-color: #223323;
     color: #ffffff;
 }
+
